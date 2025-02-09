@@ -1,4 +1,4 @@
-# CodeAlpha_Calculator
+#Calculator
 
 
 
